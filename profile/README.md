@@ -19,7 +19,7 @@
 
 | Progetto | Descrizione | Download | Linguaggio | Source Code |
 |----------|-------------|----------|------------|-------------|
-| 🌲 **Botany Pots - Tree** | Permette di piantare gli alberi nei BotanyPots | [<img src="https://img.shields.io/badge/Download-black?logo=curseforge" alt="CurseForge"/>](https://www.curseforge.com/minecraft/data-packs/botany-pots-trees) | <img src="https://img.shields.io/badge/JSON-lightgrey" alt="JSON"/> | [<img src="https://img.shields.io/badge/Source_Code-gray" alt="SourceCode"/>](https://github.com/Franchino961-DataPack/BotanyPots-Trees) |
+| 🌲 **Botany Pots - Trees** | Permette di piantare gli alberi nei BotanyPots | [<img src="https://img.shields.io/badge/Download-black?logo=curseforge" alt="CurseForge"/>](https://www.curseforge.com/minecraft/data-packs/botany-pots-trees) | <img src="https://img.shields.io/badge/JSON-lightgrey" alt="JSON"/> | [<img src="https://img.shields.io/badge/Source_Code-gray" alt="SourceCode"/>](https://github.com/Franchino961-DataPack/BotanyPots-Trees) |
 
 ---
 
