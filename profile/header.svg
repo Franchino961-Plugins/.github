@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 180" width="100%">
+  <defs>
+    <linearGradient id="grad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#8B5CF6" />
+      <stop offset="100%" stop-color="#6366F1" />
+    </linearGradient>
+  </defs>
+  
+  <!-- Waving layer 1 (Background layer, solid) -->
+  <path fill="url(#grad)" opacity="1.0" d="M0,0 L0,135 Q225,160 450,135 T900,135 L900,0 Z">
+    <animate 
+      attributeName="d" 
+      dur="8s" 
+      repeatCount="indefinite" 
+      values="
+        M0,0 L0,135 Q225,160 450,135 T900,135 L900,0 Z;
+        M0,0 L0,145 Q225,120 450,145 T900,145 L900,0 Z;
+        M0,0 L0,125 Q225,170 450,125 T900,125 L900,0 Z;
+        M0,0 L0,135 Q225,160 450,135 T900,135 L900,0 Z" />
+  </path>
+
+  <!-- Waving layer 2 (Foreground layer, transparent) -->
+  <path fill="url(#grad)" opacity="0.8" d="M0,0 L0,120 Q225,95 450,120 T900,120 L900,0 Z">
+    <animate 
+      attributeName="d" 
+      dur="12s" 
+      repeatCount="indefinite" 
+      values="
+        M0,0 L0,120 Q225,95 450,120 T900,120 L900,0 Z;
+        M0,0 L0,135 Q225,140 450,135 T900,135 L900,0 Z;
+        M0,0 L0,110 Q225,80 450,110 T900,110 L900,0 Z;
+        M0,0 L0,120 Q225,95 450,120 T900,120 L900,0 Z" />
+  </path>
+  
+  <!-- Text overlay -->
+  <text x="50%" y="40%" dominant-baseline="middle" text-anchor="middle" font-family="'Fira Code', monospace" font-size="45" font-weight="bold" fill="#FFFFFF">Franchino961 - Plugins</text>
+</svg>
